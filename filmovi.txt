@@ -1,0 +1,10 @@
+1|Cigani lete u nebo|Ljubavni|101|Emil Loteanu|Svetlana Toma, Grigore Grigoriju|SSSR|1975
+2|Ko to tamo peva|Komedija|90|Slobodan Šijan|Pavle Vuisić, Dragan Nikolić, Danilo Bata Stojkovic|Jugoslavija|1980
+3|Tesna koža|Komedija|92|Mića Milošević|Milan Gutović, Nikola Simić|Jugoslavija|1982
+4|Umri muški|Akcioni|131|Džon Maktirnan|Brus Vilis, Alan Rikman|SAD|1988
+5|Crna mačka, beli mačor|Komedija|60|Emir Kosturica|Srđan Todorović, Bajram Severdžan|Jugoslavija|1998
+6|Lepa sela lepo gore|Komedija|129|Srđan Dragojević|Nikola Kojo, Milorad Mandić, Dragan Bjelogrlić|Jugoslavija|1996
+7|Crni Gruja i kamen mudrosti|Komedija|98|Marko Marinković|Nenad Jezdić, Boris Milivojević, Marinko Madžgalj|Srbija|2007
+8|Lajanje na zvezde|Komedija|95|Zdravko Šotra|Dragan Mićanović, Nataša Šolak|Jugoslavija|1998
+9|Ivkova slava|Komedija|110|Zdravko Šotra|Zoran Cvijanović, Srđan Todorović, Milorad Mandić, Nikola Đuričko|Srbija|2005
+10|Džon Vik|Triler|101|Čad Stahelski|Kijanu Rivs, Alfi Alen|SAD|2014

@@ -1,0 +1,5 @@
+    Prodavac    | Ukupan broj prodatih karata | Ukupna cena 
+      mara      |              4              |    1750     
+      vrle      |              2              |    1200     
+      joka      |              2              |    1000     
+      dule      |              1              |     130     

@@ -1,0 +1,11 @@
+1111|S1|14:00|16:00|Ponedeljak, sreda|Tesna koža|450
+1112|S1|13:00|16:00|Četvrtak|Lepa sela lepo gore|500
+1113|S2|18:00|20:00|Petak, subota, nedelja|Ko to tamo peva|300
+1114|S1|17:00|19:30|Utorak, sreda|Ivkova slava|400
+1115|S3|16:30|18:30|Utorak, subota, nedelja|Crni Gruja i kamen mudrosti|600
+1116|S3|12:00|14:00|Utorak|Džon Vik|450
+1117|S2|19:30|21:00|Ponedeljak, sreda|Lajanje na zvezde|550
+1118|S3|15:00|18:00|Sreda, petak|Umri muški|500
+1119|S1|14:30|16:30|Ponedeljak|Cigani lete u nebo|300
+1120|S2|15:00|16:30|Utorak, četvrtak, subota|Crna mačka, beli mačor|550
+1121|S3|12:00|14:00|Ponedeljak, utorak|Tesna koža|400

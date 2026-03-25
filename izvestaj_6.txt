@@ -1,0 +1,2 @@
+ Ukupan broj prodatih karata | Ukupna cena 
+              2              |     580     

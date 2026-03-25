@@ -1,0 +1,54 @@
+perica|1120BN|1A|10.01.2024.|K.mara.550
+mile|1113BT|3C|10.01.2024.|K.vrle.300
+tikaspic|1113AM|2B|11.01.2024.|K.mara.300
+tikaspic|1115AU|3D|11.01.2024.|K.joka.600
+tikaspic|1116CD|2E|11.01.2024.|K.dule.450
+djosa|1115AU|2B|11.01.2024.|K.dule.600
+djosa|1115AS|2E|12.01.2024.|K.vrle.600
+djosa|1119BI|5A|14.01.2024.|K.joka.350
+djosa|1112BP|1D|11.01.2024.|K.mara.500
+ingrid|1114CA|2E|11.01.2024.|K.dule.400
+ingrid|1120BN|3A|11.01.2024.|K.joka.550
+dragojlo|1116AW|2D|11.01.2024.|K.joka.450
+dragojlo|1111AD|2E|11.01.2024.|K.mara.450
+vladimir djukanovic|1116AW|2A|11.01.2024.|K.mara.450
+zlata|1111AD|1C|12.01.2024.|K.dule.450
+zlata|1115AS|1D|12.01.2024.|K.vrle.600
+cercil|1114CA|1D|12.01.2024.|K.mara.450
+ingrid|1115AU|2D|14.01.2024.|K.mara.650
+ingrid|1113BS|2D|14.01.2024.|K.joka.350
+ingrid|1112BP|2C|14.01.2024.|K.vrle.500
+djoda|1111AD|3A|14.01.2024.|K.vrle.500
+djoda|1116AW|3C|14.01.2024.|K.vrle.500
+djoda|1112BP|3D|14.01.2024.|K.joka.500
+djoda|1118BW|2E|14.01.2024.|K.mara.550
+djoda|1115AU|1C|14.01.2024.|K.dule.650
+ingrid|1116CD|2B|14.01.2024.|K.joka.450
+milovan antic|1115AU|2E|14.01.2024.|K.mara.600
+zikica zikic|1119BI|3E|14.01.2024.|K.vrle.300
+mile|1112BP|4A|14.01.2024.|K.mara.500
+mile|1116CD|2D|13.01.2024.|K.vrle.450
+vedran bajic|1120CI|2A|13.01.2024.|K.vrle.550
+uros popovic|1120CI|2B|13.01.2024.|K.vrle.550
+cercil|1120CI|1D|13.01.2024.|K.dule.550
+dragojlo|1117CF|2C|13.01.2024.|K.dule.550
+dragojlo|1119CH|4E|13.01.2024.|K.joka.300
+uros popovic|1119CH|4A|13.01.2024.|K.joka.300
+radojka|1119CH|1C|13.01.2024.|K.mara.300
+perica|1114CA|3A|13.01.2024.|K.mara.400
+radojka|1112BP|1B|09.01.2024.|K.mara.450
+mile|1118BW|1A|09.01.2024.|K.mara.450
+tikaspic|1111BY|2B|09.01.2024.|K.mara.400
+dragojlo|1111BY|1E|09.01.2024.|K.dule.400
+zlata|1111BY|2C|09.01.2024.|K.dule.400
+ingrid|1118BW|2A|09.01.2024.|K.vrle.450
+djoda|1118BW|1D|09.01.2024.|K.vrle.450
+dragojlo|1118BW|1C|08.01.2024.|K.mara.500
+zlata|1120BX|2B|08.01.2024.|K.mara.550
+iva glamocanin|1120BX|2D|08.01.2024.|K.mara.550
+perica|1120BX|3C|08.01.2024.|K.vrle.550
+radojka|1111BY|2E|08.01.2024.|K.vrle.450
+cercil|1120BX|1C|08.01.2024.|K.joka.550
+iva glamocanin|1118BW|3C|08.01.2024.|K.joka.500
+perica|1120CI|2E|14.01.2024.|K.mara.550
+vukasin vujovic|1120CI|1A|14.01.2024.|K.dule.550
